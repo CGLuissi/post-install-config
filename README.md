@@ -71,7 +71,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 ![LB2 7](https://github.com/CGLuissi/post-install-config/assets/143234913/63abcec7-6e5b-4bef-a095-5a618d3df834)
 
 
-8.) Finally, create a few new Help Topics. In the Manage tab, click Help Topics and Add New Help Topic. We can make a new topic named Business Critical Outage and another one titled Equipment Request. These two help topics are opposites in terms of severity, but are just some of the issues that may arise in an IT department. When tickets in these topics are made, we can evaluate them and assign them to other departments if need be.
+8.) Finally, create a few new Help Topics. In the Manage tab, click Help Topics and Add New Help Topic. We can make a new topic named Business Critical Outage and another one titled Equipment Request. These two help topics are opposites in terms of severity, but are just some of the issues that may arise in an IT department. When tickets in these topics are made, we can evaluate them and assign them to other departments if need be. If you'd like, you can create other help topics but for now we are going to leave these two and role-play as Users and Agents in our next Project.
 
 
 </p>
